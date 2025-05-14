@@ -1,1 +1,1 @@
-![Metrics](https://raw.githubusercontent.com/qligier/qligier/main/github-metrics.svg)
+![Metrics](https://raw.githubusercontent.com/semazurek/semazurek/main/github-metrics.svg)
